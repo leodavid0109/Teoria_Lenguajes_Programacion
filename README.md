@@ -1,7 +1,7 @@
 # Repositorio de Teoría de Lenguajes de Programación 💻
 
 ¡Bienvenido al repositorio de Teoría de Lenguajes de Programación!  
-Este repositorio ha sido creado como parte del desarrollo de actividades, ejercicios y proyectos de la materia de **Teoría de Lenguajes de Programación** en [nombre de la institución educativa].  
+Este repositorio ha sido creado como parte del desarrollo de actividades, ejercicios y proyectos de la materia de **Teoría de Lenguajes de Programación**.  
 Aquí encontrarás implementaciones, ejemplos y recursos que abarcan los principales paradigmas y fundamentos de los lenguajes de programación.
 
 ## Acerca de la Teoría de Lenguajes de Programación
